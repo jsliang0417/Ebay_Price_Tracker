@@ -10,7 +10,6 @@ Ebay Price Tracker Project
 ##### pip install the following libraries:
 
 - BeautifulSoup
-- smtplib
 - apscheduler
 
 #### Usage
