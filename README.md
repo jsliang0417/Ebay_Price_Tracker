@@ -7,7 +7,7 @@ Ebay Price Tracker Project
 
 #### Prerequisites
 
-pip install the following libraries:
+##### pip install the following libraries:
 
 - BeautifulSoup
 - smtplib
