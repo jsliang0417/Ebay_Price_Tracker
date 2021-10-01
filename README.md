@@ -9,4 +9,3 @@ Ebay Price Tracker Project
 ```python
 python3 ebay_price_tracker.py <URL> <desired_price> <frequency(in_sec)>
 ```
-
